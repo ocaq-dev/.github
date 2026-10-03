@@ -1,7 +1,7 @@
 <div align="center">
   
-<!-- Loqo yerinə (əgər varsa) -->
-<img src="https://ocaq.dev/ocaq-github-logo.png" alt="Ocaq Logo" width="60" /> 
+
+<img src="https://ocaq.dev/ocaq-github-logo.png" alt="Ocaq Logo" width="240" style="border-radius: 0.375rem;" /> 
 
 <h1>Ocaq.</h1>
 <p>
@@ -35,17 +35,22 @@ Hi there! Welcome to **Ocaq Dev**. We are a team of passionate engineers and des
 
 <br />
 
-### ✦ Tech Stack
+### ✦ What you can deploy
 
-We love and actively build with:
+We provide seamless, zero-config automated deployments for the modern web ecosystem. Ocaq's build engine automatically detects and deploys:
 
 <p>
-  <code>Go</code>
-  <code>TypeScript</code>
-  <code>React / Next.js</code>
-  <code>PostgreSQL</code>
-  <code>Redis</code>
-  <code>Docker</code>
+  <code>Next.js</code>
+  <code>React</code>
+  <code>Vue</code>
+  <code>Svelte</code>
+  <code>Astro</code>
+  <code>Angular</code>
+  <code>Vite / SPA</code>
+  <code>Node.js</code>
+  <code>Java / Spring Boot</code>
+  <code>C# / .NET</code>
+  <code>Static HTML</code>
 </p>
 
 <br />
